@@ -1,0 +1,2 @@
+aws s3 sync ./src s3://documents.koinpayments.com --profile=koinpayments
+aws cloudfront create-invalidation --profile=koinpayments --distribution-id E1HGKXHFYPE6KR --paths "/*"

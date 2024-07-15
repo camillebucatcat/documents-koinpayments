@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "Aventa";
+  font-weight: 400;
+  src: url(./fonts/Aventa/Aventa-Regular.otf);
+}
+
+@font-face {
+  font-family: "Aventa";
+  font-weight: 600;
+  src: url(./fonts/Aventa/Aventa-SemiBold.otf);
+}
+
+
+@font-face {
+  font-family: "Aventa";
+  font-weight: 700;
+  src: url(./fonts/Aventa/Aventa-Bold.otf);
+}
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Aventa";
+  background-color: #F2F6F6;
+  font-weight: 500;
+  line-height: 1.6;
+  color: #404040;
+}
+
+.container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem 1.5rem;
+}
+
+h1 {
+ color: #211F21;
+ margin-bottom: 2rem;
+}
+
+h3 {
+  font-size: 1rem;
+  margin: 1.5rem 0;
+}
+
+p {
+  font-size: 0.875rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  color: #543D8A;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+ol, ul {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
+}
+
+li {
+  margin-bottom: .5rem;
+}
+
+table {
+  border-collapse: collapse;
+}

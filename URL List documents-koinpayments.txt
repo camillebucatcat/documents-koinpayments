@@ -1,0 +1,37 @@
+URL list
+
+Bank Privacy Policy = https://documents.koinpayments.com/bank-privacy-policy.html
+Banks Terms & Condition = https://documents.koinpayments.com/banks-terms-condition.html
+California Privacy Policy = https://documents.koinpayments.com/california-privacy-policy.html
+Casino Terms of Use = https://documents.koinpayments.com/casino-terms-of-use.html
+E-Sign Language Disclosure = https://documents.koinpayments.com/esign-policy.html
+Koin Privacy Policy = https://documents.koinpayments.com/koin-privacy-policy.html
+Terms of Use = https://documents.koinpayments.com/terms-of-use.html
+
+
+
+URL Property assets
+
+Baldinis
+bRewarded.logo = https://documents.koinpayments.com/images/property-logo/baldinis/bRewardedLogo.png
+bRewarded.background active = https://documents.koinpayments.com/images/property-logo/baldinis/bgBrewarded@155x155.jpg
+bRewarded.backgroundGray inactive = https://documents.koinpayments.com/images/property-logo/baldinis/bgBrewardedGrayscale@155x155.jpg
+
+Ellis Island
+ellis.logo = https://documents.koinpayments.com/images/property-logo/ellis-island/passportLogo.png
+ellis.logolight = https://documents.koinpayments.com/images/property-logo/ellis-island/passportLogoLight.png
+ellis.background active = https://documents.koinpayments.com/images/property-logo/ellis-island/bgEllisisland@155x155.jpg
+ellis.backgroundGray inactive = https://documents.koinpayments.com/images/property-logo/ellis-island/bgEllisislandGrayscale@155x155.jpg
+
+Live Nation
+LiveNation.logo = https://documents.koinpayments.com/images/property-logo/live-nation/liveNationLogo.png
+LiveNation.background active = https://documents.koinpayments.com/images/property-logo/live-nation/bgLivenation@155x155.jpg
+LiveNation.background inactive = https://documents.koinpayments.com/images/property-logo/live-nation/bgLivenationGray@155x155.jpg
+
+Plaza
+plaza.logo = https://documents.koinpayments.com/images/property-logo/plaza/plazaLogo.png
+plaza.logoColored = https://documents.koinpayments.com/images/property-logo/plaza/plazaColoredLogo.png
+plaza.background active = https://documents.koinpayments.com/images/property-logo/plaza/bgPlaza.jpg
+plaza.background inactive = https://documents.koinpayments.com/images/property-logo/plaza/bgPlazaGrayscale@155x155.jpg
+
+
