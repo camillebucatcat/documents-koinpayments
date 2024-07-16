@@ -27,6 +27,11 @@ ellis.logo = https://documents.koinpayments.com/images/property-logo/ellis-islan
 ellis.logolight = https://documents.koinpayments.com/images/property-logo/ellis-island/passportLogoLight.png
 ellis.background active = https://documents.koinpayments.com/images/property-logo/ellis-island/bgEllisisland@155x155.jpg
 ellis.backgroundGray inactive = https://documents.koinpayments.com/images/property-logo/ellis-island/bgEllisislandGrayscale@155x155.jpg
+ellis.miniCard = https://documents.koinpayments.com/images/property-logo/ellis-island/ellisMiniCard.png
+ellis.card = https://documents.koinpayments.com/images/property-logo/ellis-island/ellisCard.png
+ellis.cardBg = https://documents.koinpayments.com/images/property-logo/ellis-island/ellisCardBg.jpg
+
+
 
 Live Nation
 LiveNation.logo = https://documents.koinpayments.com/images/property-logo/live-nation/liveNationLogo.png
