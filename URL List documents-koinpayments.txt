@@ -8,6 +8,7 @@ E-Sign Language Disclosure = https://documents.koinpayments.com/esign-policy.htm
 Koin Privacy Policy = https://documents.koinpayments.com/koin-privacy-policy.html
 Terms of Use = https://documents.koinpayments.com/terms-of-use.html
 Terms and Condition = https://documents.koinpayments.com/terms-condition.html
+Responsible Gaming = https://documents.koinpayments.com/responsible-gaming.html
 
 
 
