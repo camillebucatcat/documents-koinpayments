@@ -18,6 +18,9 @@ Baldinis
 bRewarded.logo = https://documents.koinpayments.com/images/property-logo/baldinis/bRewardedLogo.png
 bRewarded.background active = https://documents.koinpayments.com/images/property-logo/baldinis/bgBrewarded@155x155.jpg
 bRewarded.backgroundGray inactive = https://documents.koinpayments.com/images/property-logo/baldinis/bgBrewardedGrayscale@155x155.jpg
+bRewarded.miniCard = https://documents.koinpayments.com/images/property-logo/baldinis/bRewardedMiniCard.png
+bRewarded.card = https://documents.koinpayments.com/images/property-logo/baldinis/brewardedCard.png
+baldinis.card = https://documents.koinpayments.com/images/property-logo/baldinis/bRewardedCardBg.jpg
 
 Ellis Island
 ellis.logo = https://documents.koinpayments.com/images/property-logo/ellis-island/passportLogo.png
