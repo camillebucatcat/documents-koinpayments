@@ -1,21 +1,23 @@
-@font-face {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* @font-face {
   font-family: "Aventa";
   font-weight: 400;
-  src: url(fonts/Aventa/Aventa-Regular.otf);
+  src: url(fonts/Aventa/Aventa-Regular.woff);
 }
 
 @font-face {
   font-family: "Aventa";
   font-weight: 600;
-  src: url(fonts/Aventa/Aventa-SemiBold.otf);
+  src: url(fonts/Aventa/Aventa-SemiBold.woff);
 }
 
 
 @font-face {
   font-family: "Aventa";
   font-weight: 700;
-  src: url(fonts/Aventa/Aventa-Bold.otf);
-}
+  src: url(fonts/Aventa/Aventa-Bold.woff);
+} */
 
 
 * {
@@ -24,7 +26,7 @@
 }
 
 body {
-  font-family: "Aventa";
+  font-family: "Montserrat";
   background-color: #F2F6F6;
   font-weight: 500;
   line-height: 1.6;
@@ -33,7 +35,6 @@ body {
 
 .container {
   width: 100%;
-  max-width: 500px;
   margin: 0 auto;
   padding: 2rem 1.5rem 4rem 1.5rem;
 }
