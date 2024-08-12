@@ -45,3 +45,15 @@ plaza.background active = https://documents.koinpayments.com/images/property-log
 plaza.background inactive = https://documents.koinpayments.com/images/property-logo/plaza/bgPlazaGrayscale@155x155.jpg
 
 
+Marketing assets
+https://documents.koinpayments.com/images/marketing-assets/emoji-envelope.png
+https://documents.koinpayments.com/images/marketing-assets/emoji-fire.png
+https://documents.koinpayments.com/images/marketing-assets/emoji-money-wings.png
+https://documents.koinpayments.com/images/marketing-assets/bgBanner.jpg
+https://documents.koinpayments.com/images/marketing-assets/emoji-slot-machine.png
+https://documents.koinpayments.com/images/marketing-assets/bannerPerson04.png
+https://documents.koinpayments.com/images/marketing-assets/bannerPerson01.png
+https://documents.koinpayments.com/images/marketing-assets/bannerPerson05.png
+https://documents.koinpayments.com/images/marketing-assets/bannerPerson03.png
+https://documents.koinpayments.com/images/marketing-assets/bannerPerson02.png
+https://documents.koinpayments.com/images/marketing-assets/bannerPerson02.png
