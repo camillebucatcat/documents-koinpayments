@@ -57,3 +57,21 @@ https://documents.koinpayments.com/images/marketing-assets/bannerPerson05.png
 https://documents.koinpayments.com/images/marketing-assets/bannerPerson03.png
 https://documents.koinpayments.com/images/marketing-assets/bannerPerson02.png
 https://documents.koinpayments.com/images/marketing-assets/bannerPerson02.png
+
+
+
+
+Swift by Koin
+Citi - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-citi.png
+Casino bank - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-casinobank.png
+demoBank - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-demoBank.png
+Casino bank text - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-casinobank-text.png
+Boa - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-boa.png
+capital one - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-capital-one.png
+PNC - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-pnc.png
+Chase - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-chase.png
+TD bank - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-td-bank.png
+US Bank - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-us-bank.png
+USAA - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-usaa.png
+Navy Federal - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-navy-federal.png
+Wellsfargo -https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-wellsfargo.png
