@@ -75,3 +75,14 @@ US Bank - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo
 USAA - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-usaa.png
 Navy Federal - https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-navy-federal.png
 Wellsfargo -https://documents.koinpayments.com/images/konnect-swift/bank-logo/logo-wellsfargo.png
+
+
+Konnect Table Games
+image placeholder https://documents.koinpayments.com/images/konnect-table-games/employees/image-placeholder.jpg
+Cameron - https://documents.koinpayments.com/images/konnect-table-games/employees/cameron-parks.jpg
+Mark - https://documents.koinpayments.com/images/konnect-table-games/employees/mark-weidemer.jpg
+Jordan - https://documents.koinpayments.com/images/konnect-table-games/employees/jordan-katz.jpg
+Maner - https://documents.koinpayments.com/images/konnect-table-games/employees/maner-puyawan.jpg
+Charlie - https://documents.koinpayments.com/images/konnect-table-games/employees/charlie-duldulao.jpg
+Scott - https://documents.koinpayments.com/images/konnect-table-games/employees/scott-carcillo.jpg
+Andy - https://documents.koinpayments.com/images/konnect-table-games/employees/andy-fisher.jpg
